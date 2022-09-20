@@ -2,13 +2,23 @@
   "name": "orai-munka-2022-09-15",
   "version": "1.0.0",
   "description": "oraimunka",
+  "type": "module",
   "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vargaszabi/orai-munka-2022-09-15.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "bugs": {
+    "url": "https://github.com/vargaszabi/orai-munka-2022-09-15/issues"
+  },
+  "homepage": "https://github.com/vargaszabi/orai-munka-2022-09-15#readme"
 }
